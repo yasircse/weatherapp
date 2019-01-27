@@ -2,4 +2,4 @@
 
 ### App Preview
 
-[https://weatherappyasir.herokuapp.com/]
+https://weatherappyasir.herokuapp.com/
