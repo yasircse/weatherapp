@@ -1,0 +1,29 @@
+.forecastday-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  .image {
+    width: 3em;
+    height: 3em;
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  .temperature {
+    color: #fff;
+    display: flex;
+
+    .high {
+      font-size: 12px;
+    }
+    .low {
+      font-size: 12px;
+      margin-left: 6px;
+    }
+  }
+}

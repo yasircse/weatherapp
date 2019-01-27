@@ -1,0 +1,14 @@
+.bottomHalf-container {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #80cbc4 0%, rgba(58, 98, 104, 0.57) 100%),
+    url("../../resources/images/background.jpg") center no-repeat;
+  background-size: cover;
+  .inner-container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    //align-items: center;
+  }
+}
